@@ -9,7 +9,7 @@
    * We have 3600 images total.
      
 **2. Loading and training the Model:**
-* Sucessfully loaded the VGC16 Model and add custom top 5 layers to make the model more generalize and highly accurate
+* Sucessfully loaded the VGG16 Model and add custom top 5 layers to make the model more generalize and highly accurate
 * we trained the model on augmented data with 20 epochs.
 * we got 97% accuracy on test data.
 
